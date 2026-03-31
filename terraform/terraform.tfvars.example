@@ -1,0 +1,3 @@
+db_username = "app"
+db_password = "CHANGE_ME"
+region      = "us-east-1"
